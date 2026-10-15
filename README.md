@@ -41,6 +41,7 @@ Model reference:
 Emmert, J. T., et al. (2021). NRLMSIS 2.0: A whole-atmosphere empirical model
 of temperature and neutral species densities. Earth and Space Science, 8(3),
 e2020EA001321. https://doi.org/10.1029/2020EA001321
+Density values are listed in `data/density_table.csv`.
 
 Limitation: a single solar-activity case is used, so the lifetimes are short
 estimates.
@@ -65,6 +66,7 @@ For ISS:
 500 km: 8.55 years 
 600 km: 30.0 years (more than 30 years)
 decay in 30 days = 4.59 km
+Results are listed in `data/Results.csv`.
 
 ## Sensitivity to drag area
 Lifetime scales inversely with area: 
