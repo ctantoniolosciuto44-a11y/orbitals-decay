@@ -1,0 +1,14 @@
+Altitude (km)- Lifetime, A = 0.03 m² (years)
+For CubeSat:
+300 km: 0.07 years
+400 km: 0.51 years
+500 km: 2.85 years
+600 km: 13.31 years
+">30" = no re-entry within the 30 simulated years.
+
+For ISS:
+300 km: 0.2 years 
+400 km: 1.53 years 
+500 km: 8.55 years 
+600 km: 30.0 years (more than 30 years)
+decay in 30 days = 4.59 km
